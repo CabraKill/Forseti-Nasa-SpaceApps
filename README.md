@@ -17,6 +17,8 @@ A map visualization for COVID-19.
 
 
 
-<img src="window.png" alt="window" style="zoom: 25%;" />![animation](animation.PNG)
+<img src="window.png" alt="window" style="zoom: 50%;" />
+
+<center><img src="animation.PNG" alt="animation" /></center>
 
 - Screen and Animation Controller of the status bar.
