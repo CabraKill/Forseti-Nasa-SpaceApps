@@ -1,4 +1,7 @@
-# Forseti-Nasa-SpaceApps
+# Forseti
+
+**Nasa-SpaceApps**
+
 A map visualization for COVID-19.
 
 ![title](title.png)
