@@ -17,6 +17,6 @@ A map visualization for COVID-19.
 
 
 
-<img src="D:\Brincadeiras_de_Crianca\Projetos\Nasa 2020\Forseti-Nasa-SpaceApps\window.png" alt="window" style="zoom: 25%;" />![animation](animation.PNG)
+<img src="window.png" alt="window" style="zoom: 25%;" />![animation](animation.PNG)
 
 - Screen and Animation Controller of the status bar.
