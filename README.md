@@ -1,12 +1,14 @@
 # Forseti
 
 **Nasa-SpaceApps**
+🥉Brazil Third Nacional Place in Human Factors 
+
 
 A map visualization for COVID-19.
 
 ![title](title.png)
 
-**Link for the YouTube video: https://www.youtube.com/watch?v=xgyXrp9_tHs**
+**Link for the YouTube video: https://www.youtube.com/watch?v=xgyXrp9_tHs_tHs**
 
 
 
