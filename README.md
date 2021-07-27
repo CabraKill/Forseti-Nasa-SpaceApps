@@ -1,11 +1,9 @@
 # Forseti
 
 **Nasa-SpaceApps**
-</br>
-🥉Brazil Third Nacional Place in Human Factors 
-
 
 A map visualization for COVID-19.
+🥉Brazil Third Nacional Place in Human Factors 
 
 ![title](title.png)
 
